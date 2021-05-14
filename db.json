@@ -1,0 +1,55 @@
+{
+  "data": {
+    "chartDonut": [
+      {
+        "Framework": "Vue",
+        "Stars": "166443",
+        "Released": "2014"
+      },
+      {
+        "Framework": "React",
+        "Stars": "150793",
+        "Released": "2013"
+      },
+      {
+        "Framework": "Angular",
+        "Stars": "62342",
+        "Released": "2016"
+      }
+    ],
+    "chartBar": [
+      {
+        "Framework": "Vue10",
+        "Stars": "166443",
+        "Released": "2014"
+      },
+      {
+        "Framework": "React2",
+        "Stars": "150793",
+        "Released": "2013"
+      },
+      {
+        "Framework": "Angular3",
+        "Stars": "62342",
+        "Released": "2016"
+      }
+    ],
+    "tableUsers": [
+      {
+        "Framework": "Vue",
+        "Stars": "166443",
+        "Released": "2014"
+      },
+      {
+        "Framework": "React",
+        "Stars": "150793",
+        "Released": "2013"
+      },
+      {
+        "Framework": "Angular",
+        "Stars": "62342",
+        "Released": "2016"
+      }
+    ]
+  }
+}
